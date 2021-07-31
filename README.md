@@ -2,8 +2,8 @@
 
 I'm a dashing Software Engineer with passion for:
 - Game Development
-- Compilers
-- Programming Language Design.
+- Compiler Desgin
+- Programming Language Design
 
 <!--
 **pmatyja/pmatyja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
