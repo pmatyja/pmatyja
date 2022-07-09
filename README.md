@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a dashing Software Engineer with passion for:
+I'm a dashing Solution Architect with passion for:
 - Game Development
 - Compiler Desgin
 - Programming Language Design
